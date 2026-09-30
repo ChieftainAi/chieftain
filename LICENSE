@@ -19,18 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-NOTE ON SCOPE
-
-The MIT licence above covers the CODE in this repository.
-
-The written educational CONTENT - the lesson chips in src/js/lessons.js, the
-study cards in src/js/study.js, the check questions in src/js/checks.js, the
-Vault orientation notes in src/js/vault-index.js, and the design document in
-docs/ - is licensed separately under Creative Commons Attribution 4.0
-International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
-
-"Chieftain" is the name of this project. The licences above grant no right to
-use the project name or to present a derivative work as being Chieftain.

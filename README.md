@@ -144,6 +144,7 @@ catalogues it, orients you in it, and links to it. It does not reproduce it.
 
 Code is [MIT](LICENSE). The written educational content - lesson chips, study cards, check
 questions, and the design doc - is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+See [NOTICE.md](NOTICE.md) for the exact split and for third-party attributions.
 
 "Chieftain" is the project's name. The licences grant no right to use the name or to present a
 derivative as being Chieftain.
