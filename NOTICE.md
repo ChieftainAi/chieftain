@@ -4,8 +4,9 @@
 
 `LICENSE` (MIT) covers the **code** in this repository.
 
-The written educational **content** is licensed separately under
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/):
+The written educational **content** is Copyright (c) 2026 Carter England, licensed separately
+under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Attribute it to Carter England, Chieftain. It covers:
 
 - `src/js/lessons.js` — the 46 concept chips
 - `src/js/study.js` — the Ladder's study cards
