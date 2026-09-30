@@ -1,0 +1,19 @@
+node_modules/
+.DS_Store
+.netlify/
+
+# Research material that is NOT ours to publish.
+#
+# content/wyandanch/ held ~86,600 words scraped from wyandanchlibrary.com. That site states no
+# licence anywhere - "open source finance education" is a tagline, not a grant - so the default
+# is all rights reserved. Keeping it in a PRIVATE repo was research. Shipping it in a PUBLIC one
+# would be redistribution, which is a different thing entirely.
+#
+# Nothing in src/ reads it. The Vault runs entirely off src/js/vault-index.js, which is our own
+# catalogue, our own orientation notes, and outbound links to the source.
+content/
+
+# Screenshots and crops produced by tools/shot.mjs during verification.
+shot_*.png
+crop_*.png
+*.tmp
